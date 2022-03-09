@@ -1,5 +1,5 @@
 # Hello There!
-## I'm Sughashish Tiwari,
+## I'm Subhashish Tiwari,
 - 🏙 Working at Tiluf Game Studio
 - 👨‍💻 I am a game developer and community manager
 - 🏠 I'm currently in Bengaluru,India
