@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello There!
+## I'm Sughashish Tiwari,
+- 🏙 Working at Tiluf Game Studio
+- 👨‍💻 I am a game developer and community manager
+- 🏠 I'm currently in Bengaluru,India
+- 😃 Pronouns: he/him/his
 
-<!--
-**Art-Maniac/Art-Maniac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Take a look around and message me if you want.
 
-Here are some ideas to get you started:
+## Contact me
+  
+<div>
+  <a href = "mailto:subhasish.tiluf@gmail.com">
+    <img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+---
+
+<div>
+  <a href="https://github.com/Art-Maniac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Art-Maniac&count_private=true&show_icons=true&theme=dracula&border_radius=24"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Maniac&layout=compact&theme=dracula&border_radius=24"/>
+</div>
+
+###
+
+![Snake animation](https://github.com/Noriller/Noriller/blob/output/github-contribution-grid-snake.svg)
+
