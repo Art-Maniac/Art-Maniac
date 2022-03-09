@@ -26,5 +26,5 @@
 
 ###
 
-![Snake animation](https://github.com/Noriller/Noriller/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Art-Maniac/Art-Maniac/blob/main/github-contribution-grid-snake.svg)
 
